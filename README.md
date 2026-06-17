@@ -14,8 +14,12 @@ Will be handwired; 3d printed parts will be held together with screws.
 
 # Case
 ## Top
+![](https://github.com/ordinarydairy/inkdoku/blob/main/images/case%20top.png?raw=true)
 ## Bottom
-
+![](https://github.com/ordinarydairy/inkdoku/blob/main/images/case%20bottom.png?raw=true)
 # Buttons
-
+![](https://github.com/ordinarydairy/inkdoku/blob/main/images/buttons.png?raw=true)
 ## Mounting Plate
+![](https://github.com/ordinarydairy/inkdoku/blob/main/images/ButtonMount.png?raw=true)
+
+# Schematic
