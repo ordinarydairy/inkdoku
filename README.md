@@ -1,2 +1,21 @@
 # inkdoku
+A handheld e-ink display Sudoku player. I made this so I could play more Sudoku on the go instead of using my phone :)
 
+Features number pad, arrow keys, different settings, and more.
+
+# Assembly
+Will be handwired; 3d printed parts will be held together with screws.
+![](https://github.com/ordinarydairy/inkdoku/blob/main/images/inkdoku.png?raw=true)
+![](https://github.com/ordinarydairy/inkdoku/blob/main/images/inkdoku%201.png?raw=true)
+![](https://github.com/ordinarydairy/inkdoku/blob/main/images/inkdoku%202.png?raw=true)
+![](https://github.com/ordinarydairy/inkdoku/blob/main/images/inkdoku%203.png?raw=true)
+![](https://github.com/ordinarydairy/inkdoku/blob/main/images/inkdoku%204.png?raw=true)
+![](https://github.com/ordinarydairy/inkdoku/blob/main/images/inkdoku%205.png?raw=true)
+
+# Case
+## Top
+## Bottom
+
+# Buttons
+
+## Mounting Plate
