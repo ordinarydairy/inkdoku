@@ -5,6 +5,7 @@ Features number pad, arrow keys, different settings, and more.
 
 # Assembly
 Will be handwired; 3d printed parts will be held together with screws.
+
 ![](https://github.com/ordinarydairy/inkdoku/blob/main/images/inkdoku.png?raw=true)
 ![](https://github.com/ordinarydairy/inkdoku/blob/main/images/inkdoku%201.png?raw=true)
 ![](https://github.com/ordinarydairy/inkdoku/blob/main/images/inkdoku%202.png?raw=true)
