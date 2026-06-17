@@ -3,6 +3,7 @@ A handheld e-ink display Sudoku player. I made this so I could play more Sudoku 
 
 Features number pad, arrow keys, different settings, and more. Also has candidates mode and highlights to apply advanced Sudoku techniques!
 
+![](https://github.com/ordinarydairy/inkdoku/blob/main/zine/zine.png?raw=true)
 # Assembly
 Will be handwired; 3d printed parts will be held together with screws.
 
