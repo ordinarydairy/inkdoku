@@ -1,5 +1,5 @@
 # inkdoku
-A handheld e-ink display Sudoku player. I made this so I could play more Sudoku on the go instead of using my phone :)
+A handheld e-ink display Sudoku player. Use the buttons to control the Sudoku game! I made this so I could play more Sudoku on the go instead of using my phone :)
 
 Features number pad, arrow keys, different settings, and more. Also has candidates mode and highlights to apply advanced Sudoku techniques! It uses a Raspberry Pi Pico W in hopes of online backup support someday.
 
