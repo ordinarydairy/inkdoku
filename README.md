@@ -4,6 +4,12 @@ A handheld e-ink display Sudoku player. I made this so I could play more Sudoku 
 Features number pad, arrow keys, different settings, and more. Also has candidates mode and highlights to apply advanced Sudoku techniques!
 
 ![](https://github.com/ordinarydairy/inkdoku/blob/main/zine/zine.png?raw=true)
+# Firmware
+!! very not tested. I have included a matrix wiring version that matches the schematic here and a version using individual pins for each button.
+
+## Gameplay Preview
+![](https://github.com/ordinarydairy/inkdoku/blob/main/images/demo%201.png?raw=true)
+![](https://github.com/ordinarydairy/inkdoku/blob/main/images/demo%202.png?raw=true)
 # Assembly
 Will be handwired; 3d printed parts will be held together with screws.
 
@@ -25,3 +31,4 @@ Will be handwired; 3d printed parts will be held together with screws.
 ![](https://github.com/ordinarydairy/inkdoku/blob/main/images/ButtonMount.png?raw=true)
 
 # Schematic
+![](https://github.com/ordinarydairy/inkdoku/blob/main/images/inkdoku%20schematic.png?raw=true)
