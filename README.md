@@ -11,8 +11,9 @@ Features number pad, arrow keys, different settings, and more. Also has candidat
 ![](https://github.com/ordinarydairy/inkdoku/blob/main/images/demo%201.png?raw=true)
 ![](https://github.com/ordinarydairy/inkdoku/blob/main/images/demo%202.png?raw=true)
 # Assembly
-Will be handwired; 3d printed parts will be held together with screws.
+Will be handwired; 3d printed parts will be held together with screws, USB mount screws into top.
 Base/Button mount board will be printed in PLA and buttons with flextible TPE.
+Switches will be inserted into holes on the mounting plates for more stability. 
 
 ![](https://github.com/ordinarydairy/inkdoku/blob/main/images/inkdoku.png?raw=true)
 ![](https://github.com/ordinarydairy/inkdoku/blob/main/images/inkdoku%201.png?raw=true)

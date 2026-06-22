@@ -19,8 +19,8 @@ km = keypad.KeyMatrix(
     row_pins=(
         Pin(1,  Pin.IN, Pin.PULL_UP),
         Pin(2,  Pin.IN, Pin.PULL_UP), 
-        Pin(3,  Pin.IN, Pin.PULL_UP), 
-        Pin(4,  Pin.IN, Pin.PULL_UP)),
+        Pin(4,  Pin.IN, Pin.PULL_UP), 
+        Pin(5,  Pin.IN, Pin.PULL_UP)),
     column_pins=(
         Pin(6,  Pin.IN, Pin.PULL_UP), 
         Pin(7,  Pin.IN, Pin.PULL_UP), 
