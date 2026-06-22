@@ -6,8 +6,6 @@ from epaper42 import EPD
 import keypad
 
 
-# Pin assignments
-
 KEY_MAP = [
     "S", "U", "1", "2", "3",
     "L", "R", "4", "5", "6",
@@ -15,18 +13,20 @@ KEY_MAP = [
     "",  "P", "M", "N", "J"
 ]
 
+# pin assignments = GPX and not physical pins
+
 km = keypad.KeyMatrix(
     row_pins=(
-        Pin(1,  Pin.IN, Pin.PULL_UP),
+        Pin(0,  Pin.IN, Pin.PULL_UP),
+        Pin(1,  Pin.IN, Pin.PULL_UP), 
         Pin(2,  Pin.IN, Pin.PULL_UP), 
-        Pin(4,  Pin.IN, Pin.PULL_UP), 
-        Pin(5,  Pin.IN, Pin.PULL_UP)),
+        Pin(3,  Pin.IN, Pin.PULL_UP)),
     column_pins=(
+        Pin(4,  Pin.IN, Pin.PULL_UP), 
+        Pin(5,  Pin.IN, Pin.PULL_UP), 
         Pin(6,  Pin.IN, Pin.PULL_UP), 
-        Pin(7,  Pin.IN, Pin.PULL_UP), 
-        Pin(9,  Pin.IN, Pin.PULL_UP), 
-        Pin(10,  Pin.IN, Pin.PULL_UP),
-        Pin(11,  Pin.IN, Pin.PULL_UP)),
+        Pin(7,  Pin.IN, Pin.PULL_UP),
+        Pin(8,  Pin.IN, Pin.PULL_UP)),
     columns_to_anodes=True,
 )
 
