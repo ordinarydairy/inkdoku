@@ -13,7 +13,18 @@ Features number pad, arrow keys, different settings, and more. Also has candidat
 # Assembly
 Will be handwired; 3d printed parts will be held together with screws, USB mount screws into top.
 Base/Buttons/Button mount board will be printed in PLA
+
 Switches will be inserted into holes on the mounting plates for more stability. 
+
+How to Assemble (?):
+- Print all parts
+- Screw usb mount into case bottom
+- Place all switches into holes onto mounting plate, wire them together
+- Wire switches, battery and display to microcontroller
+- Plug usb mount cable into microcontroller
+- Mount plate and display to case bottom with screws
+- Place buttons in case top
+- Screw case top into bottom
 
 ![](https://github.com/ordinarydairy/inkdoku/blob/main/images/inkdoku.png?raw=true)
 ![](https://github.com/ordinarydairy/inkdoku/blob/main/images/inkdoku%201.png?raw=true)
